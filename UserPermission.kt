@@ -26,6 +26,8 @@ import com.pamiracar.yemekkitabi.databinding.FragmentListeBinding
 import com.pamiracar.yemekkitabi.databinding.FragmentTarifBinding
 import java.io.IOException
 
+//before using codes, please read the README
+
 class TarifFragment : Fragment() {
 
     private var _binding: FragmentTarifBinding? = null
@@ -162,3 +164,6 @@ class TarifFragment : Fragment() {
         _binding = null
     }
 }
+
+//before using codes, please read the README
+
